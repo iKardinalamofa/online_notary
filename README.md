@@ -22,3 +22,12 @@ To enhance the proposed platform for timestamping and announcing events, happeni
 9. **Data Privacy and Compliance**: Adhere to data privacy regulations such as GDPR and HIPAA (if applicable), implementing robust data encryption and privacy controls to safeguard user information.
 
 10. **Analytics and Reporting**: Provide users with analytics tools and reporting functionalities to analyze timestamped data and extract valuable insights. This can include visualizations, trend analysis, and customizable reports.
+
+
+This project is assigned to the group below:
+Bill Clinton          - BT/ITS/23/
+Joshua Bassaw         - BT/ITS/23/009
+Bernice Djirackor     - BT/ITS/23/017
+Richmond Kwame Nyarko - BT/ITS/23/011
+Charles Appiah Mends  - BT/ITS/23/001
+AUGUSTINE ANAAFI      - BT/ITS/23/013
